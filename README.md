@@ -3,9 +3,9 @@
 This is a simple Hacker News SPA built using [Sycamore](https://sycamore-rs.netlify.app) in approx.
 500 lines of Rust.
 
-## Building
+## Building 
 
-Requirements:
+Requirements :
 
 - [Trunk](https://trunkrs.dev): Use Trunk to build and bundle the app.
 
