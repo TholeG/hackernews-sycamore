@@ -15,4 +15,4 @@ cd hackernews-sycamore
 trunk serve --open
 ```
 
-[Live demo](https://lukechu10.github.io/hackernews-sycamore/)
+[Live demo](https://tholeg.github.io/hackernews-sycamore/)
